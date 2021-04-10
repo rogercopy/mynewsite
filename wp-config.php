@@ -2,9 +2,9 @@
 
 
   
-define('DB_NAME', $_ENV["DB_NAME"]);
-define('DB_USER', $_ENV["DB_USER"]);
-define('DB_PASSWORD', $_ENV["DB_PASSWORD"]);
+define('DB_NAME', $_ENV["info_wordpress"]);
+define('DB_USER', $_ENV["info_mynewssitepress"]);
+define('DB_PASSWORD', $_ENV["z1kxf97CGb+3pClB"]);
 define('DB_HOST', $_ENV["DB_HOST"]);
 define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
